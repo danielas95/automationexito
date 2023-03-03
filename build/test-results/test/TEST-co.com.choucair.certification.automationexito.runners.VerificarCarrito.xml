@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="co.com.choucair.certification.automationexito.runners.VerificarCarrito" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-02-27T05:24:12" hostname="LAPTOP-2COIRTSG" time="126.603">
+<testsuite name="co.com.choucair.certification.automationexito.runners.VerificarCarrito" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-03-03T14:12:49" hostname="LAPTOP-2COIRTSG" time="122.967">
   <properties/>
-  <testcase name="Coincidencia de los nombres de los productos al carrito" classname="co.com.choucair.certification.automationexito.runners.VerificarCarrito" time="126.603"/>
+  <testcase name="Coincidencia de los precios de los productos al carrito" classname="co.com.choucair.certification.automationexito.runners.VerificarCarrito" time="122.967"/>
   <system-out><![CDATA[
 1 Scenarios (?[32m1 passed?[0m)
 3 Steps (?[32m3 passed?[0m)
-2m6,842s
+2m3,205s
 
 ]]></system-out>
-  <system-err><![CDATA[feb. 27, 2023 12:24:12 A. M. org.openqa.selenium.remote.DesiredCapabilities chrome
+  <system-err><![CDATA[mar. 03, 2023 9:12:50 A. M. org.openqa.selenium.remote.DesiredCapabilities chrome
 INFO: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
-Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 7208
+Starting ChromeDriver 110.0.5481.77 (65ed616c6e8ee3fe0ad64fe83796c020644d42af-refs/branch-heads/5481@{#839}) on port 33786
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-[1677475454.717][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
-feb. 27, 2023 12:24:14 A. M. org.openqa.selenium.remote.ProtocolHandshake createSession
+[1677852772.666][WARNING]: virtual void DevToolsClientImpl::AddListener(DevToolsEventListener *) subscribing a listener to the already connected DevToolsClient. Connection notification will not arrive.
+mar. 03, 2023 9:12:52 A. M. org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 ]]></system-err>
 </testsuite>

@@ -5,23 +5,23 @@ import net.serenitybdd.screenplay.targets.Target;
 public class Productos {
     public static final Target AGREGARPRODUCTOUNO = Target.the("agregar producto uno")
             .locatedBy("//div[@class=\"vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--default pa4\"][1]");
-    public static final Target AGREGARPRODUCTODOS = Target.the("agregar producto cinco")
+    public static final Target AGREGARPRODUCTODOS = Target.the("agregar producto dos")
             .locatedBy("//div[@class=\"vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--default pa4\"][2]");
-    public static final Target AGREGARPRODUCTOCUATRO = Target.the("agregar producto siete")
+    public static final Target AGREGARPRODUCTOTRES = Target.the("agregar producto cautro")
             .locatedBy("//div[@class=\"vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--default pa4\"][3]");
-    public static final Target AGREGARPRODUCTOSIETE = Target.the("agregar producto diez")
+    public static final Target AGREGARPRODUCTOCUATRO = Target.the("agregar producto siete")
             .locatedBy("//div[@class=\"vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--default pa4\"][4]");
-    public static final Target AGREGARPRODUCTODIEZ = Target.the("agregar producto doce")
+    public static final Target AGREGARPRODUCTOCINCO = Target.the("agregar producto diez")
             .locatedBy("//div[@class=\"vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--default pa4\"][5]");
-    public static final Target AGREGARPRODUCTODOCE= Target.the("agregar producto quince")
+    public static final Target AGREGARPRODUCTOSEIS = Target.the("agregar producto doce")
             .locatedBy("//div[@class=\"vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--default pa4\"][6]");
-    public static final Target AGREGARPRODUCTOTRECE = Target.the("agregar producto dieciseis")
+    public static final Target AGREGARPRODUCTOSIETE = Target.the("agregar producto trece")
             .locatedBy("//div[@class=\"vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--default pa4\"][7]");
-    public static final Target AGREGARPRODUCTOCATORCE = Target.the("agregar producto diecinueve")
+    public static final Target AGREGARPRODUCTOOCHO = Target.the("agregar producto catorce")
             .locatedBy("//div[@class=\"vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--default pa4\"][8]");
-    public static final Target AGREGARPRODUCTODIECISIETE = Target.the("agregar producto veinte")
+    public static final Target AGREGARPRODUCTONUEVE = Target.the("agregar producto diecisiete")
             .locatedBy("//div[@class=\"vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--default pa4\"][9]");
-    public static final Target AGREGARPRODUCTODIECIOCHO = Target.the("agregar producto veintiuno")
+    public static final Target AGREGARPRODUCTODIEZ = Target.the("agregar producto dieciocho")
             .locatedBy("//div[@class=\"vtex-search-result-3-x-galleryItem vtex-search-result-3-x-galleryItem--normal vtex-search-result-3-x-galleryItem--default pa4\"][10]");
 
 

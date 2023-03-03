@@ -30,7 +30,7 @@ public class VerificarCarrito implements Task {
         }
 
     }
-    public static VerificarCarrito createcar(){
+    public static VerificarCarrito goToCar(){
         return instrumented(VerificarCarrito.class);
     }
 }
